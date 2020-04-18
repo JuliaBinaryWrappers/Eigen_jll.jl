@@ -1,6 +1,6 @@
 name = "Eigen_jll"
 uuid = "bc6bbf8a-a594-5541-9c57-10b0d0312c70"
-version = "3.3.7+0"
+version = "3.3.7+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

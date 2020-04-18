@@ -1,113 +1,113 @@
 [[Eigen]]
 arch = "i686"
-git-tree-sha1 = "23fe1cdb05f966102f4c4f0ae6974238047ec059"
+git-tree-sha1 = "7399e58ef01bf864875d9d0c0d5aaad11d6cc7ce"
 libc = "musl"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "b7c0e114edabe62d8db2deac5a776fd8467cd38a28e6d8b2d7962fe40d94a7c7"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.i686-linux-musl.tar.gz"
+    sha256 = "8bd59e3ec497a959f5d2cb6728079233e8f52a7400fe2ee1683089ad280dee2a"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.i686-linux-musl.tar.gz"
 [[Eigen]]
 arch = "aarch64"
-git-tree-sha1 = "22960edc1e7990c5d60a4f69d3c374f1d785bea9"
+git-tree-sha1 = "459350d0bebce879bdfe25234794d95c33599dd2"
 libc = "musl"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "1c29ce90c9cc16ef4a1babd8370f47566832de08f8a98efe2e33c2ae14faa966"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.aarch64-linux-musl.tar.gz"
+    sha256 = "3de94c0f5a4daae7c5093421794f3bbcaea8432986a0467a21c7e359cb7fe8c1"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.aarch64-linux-musl.tar.gz"
 [[Eigen]]
 arch = "i686"
-git-tree-sha1 = "d27160b5d01d0256c55853e8cdbd9ae3c1949655"
+git-tree-sha1 = "85f723474ae30a463615b8f92a151941921c8a97"
 os = "windows"
 
     [[Eigen.download]]
-    sha256 = "d749c15e265bd1631b8af0c39ee5a1470d848bbe431aa78371db014647e93a06"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.i686-w64-mingw32.tar.gz"
+    sha256 = "a63a2c1c5b157881d4c607d00c1bb2f76bdf4d3b7af7d1819c63cf6646e967ff"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.i686-w64-mingw32.tar.gz"
 [[Eigen]]
 arch = "x86_64"
-git-tree-sha1 = "b66138aaf8014be42cb513a51f06e1e38707a6df"
+git-tree-sha1 = "a0de5e010098005481a7bcecdf4872b737e3cf60"
 os = "windows"
 
     [[Eigen.download]]
-    sha256 = "5621a436fba6afbb46ef89b1b1ba69599e9ab51e3a5a72c16da13890576eaddc"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.x86_64-w64-mingw32.tar.gz"
+    sha256 = "935507ef3b9e4466e309f3c723c14a92bbef0141d1c3c7490bd640befa0c46b9"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.x86_64-w64-mingw32.tar.gz"
 [[Eigen]]
 arch = "armv7l"
-git-tree-sha1 = "742564ddf74498a258e835dc678ce089386b2c20"
+git-tree-sha1 = "54a2fdff672cb3d69e2dbd747f9a16e1db00166e"
 libc = "glibc"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "6e4b350c79c972070ab8e8ee981850632022ef076716892582799ec5a30d0c40"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "af43b9a690fc1ab60576193381d31792690e5222ca5d4346f698bffede4a5ab5"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.armv7l-linux-gnueabihf.tar.gz"
 [[Eigen]]
 arch = "armv7l"
-git-tree-sha1 = "6b6d762e079e3cefeacf67dee244b0540618b5e6"
+git-tree-sha1 = "b78881f174566db3599e1d4ecfe38007e491832f"
 libc = "musl"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "faa67d2ccc986edee864e63e4f177815094bb37efaac48313ee59f784b36475f"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "23c2c43695c3ea4e93a98a56f190b02385e48300f317450bd6f32598050fda19"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.armv7l-linux-musleabihf.tar.gz"
 [[Eigen]]
 arch = "i686"
-git-tree-sha1 = "7becba9ca10e3af25aa678fce3e83cc69e5cee06"
+git-tree-sha1 = "455b91e65a14a7e0be1e29e55fba46c1361489bf"
 libc = "glibc"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "205802d31b39abe4588df4ebb82cf3b93d4669d0f0b67083066b53db5e2a5691"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.i686-linux-gnu.tar.gz"
+    sha256 = "1b39070d95087404f51e42eab73868984920930878800d6d828cb09b4dbb5330"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.i686-linux-gnu.tar.gz"
 [[Eigen]]
 arch = "x86_64"
-git-tree-sha1 = "a34b6e4e84629584fed622df1f12afbf1e6f5432"
+git-tree-sha1 = "07c0d2d7fd9739e16a8520ca528468a3d9b019e5"
 libc = "glibc"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "dc72b8dd55180825ffcedc1c88a60808063820d2aa5de4ffffb6b48d1ac61875"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.x86_64-linux-gnu.tar.gz"
+    sha256 = "ffbb23e5ee388d9d256ef712ceb328aa40a45197cd6f4c31ce4e9f34ef9985be"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.x86_64-linux-gnu.tar.gz"
 [[Eigen]]
 arch = "powerpc64le"
-git-tree-sha1 = "daab68ea9e581aa6a3f99b4883c28b4846b3d054"
+git-tree-sha1 = "6ce1bebc2be67081e4e76755013bd4e749e72b16"
 libc = "glibc"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "40df1db6582f46b8f108b75b1b71e5f7719354af4bede81fc91d632de72a9df0"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "3a8f69f33647ace42565d5c109213f123fa1c290559f7322ed0654744b300e05"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.powerpc64le-linux-gnu.tar.gz"
 [[Eigen]]
 arch = "x86_64"
-git-tree-sha1 = "a60b036b09986edb37d155e1c219d888e7ab74d7"
+git-tree-sha1 = "4036d340774c2653dd864dc4074990ab6cef678e"
 os = "macos"
 
     [[Eigen.download]]
-    sha256 = "4acdbf40cf24201b5bc7b88a5f5e39a050991480dd35656919e05781faea266c"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.x86_64-apple-darwin14.tar.gz"
+    sha256 = "5166c89ab1b2e8b90591ebffb802aa2ff69af875c51245fdd81976e2ce096ca3"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.x86_64-apple-darwin14.tar.gz"
 [[Eigen]]
 arch = "aarch64"
-git-tree-sha1 = "8ff72ec1387a379ef9d7d505210c5bca2fe5177d"
+git-tree-sha1 = "2604eb0625b36b1b693ef9030eb6ed9fc7f7a45f"
 libc = "glibc"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "b18b81a5ccb55fb8ba4ec428134ff94bdab1b7230119fc42cbca0e73c2dbfdde"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.aarch64-linux-gnu.tar.gz"
+    sha256 = "be2a192c7b15983f157234f5912cbfdd3fbcd18414f87efd08feb1b466f37f6d"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.aarch64-linux-gnu.tar.gz"
 [[Eigen]]
 arch = "x86_64"
-git-tree-sha1 = "15731358126b8680ac16f08418f99a0ba405c754"
+git-tree-sha1 = "2552d55d722857e2fc9421df9970165cbe715199"
 os = "freebsd"
 
     [[Eigen.download]]
-    sha256 = "4b54a565da32cba8d66dcd6b71b69747a8ee8342676475acd6452151a2ed4750"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "a2982045343b8a305ba9092a4b5bb9070ed58aa09dd397a9c0f9116583a3a6f3"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.x86_64-unknown-freebsd11.1.tar.gz"
 [[Eigen]]
 arch = "x86_64"
-git-tree-sha1 = "21f52a8a9d4695e238727b5e275223e729092796"
+git-tree-sha1 = "1898bd4f59c5a767fde4d55ac4b4b966ee049b94"
 libc = "musl"
 os = "linux"
 
     [[Eigen.download]]
-    sha256 = "1dce4cc639d71a3496fd83f43e25d964776ed944d01676b04d0a7ee3e26a8603"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+0/Eigen.v3.3.7.x86_64-linux-musl.tar.gz"
+    sha256 = "278ab3644c337ad1c000e3c74a40b8c29086cd29ae09d418bfa2e9fbe34c88cc"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.3.7+1/Eigen.v3.3.7.x86_64-linux-musl.tar.gz"
