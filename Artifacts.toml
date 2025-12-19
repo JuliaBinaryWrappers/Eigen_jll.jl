@@ -3,4 +3,4 @@ git-tree-sha1 = "9978ceb28f526bd38f34393ac9f8303cd720746d"
 
     [[Eigen.download]]
     sha256 = "185d480779107dd28e45079ef326cbf6d08464beb8dcddcb4402af1778b17e94"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.4.1+0/Eigen.v3.4.1.any.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.4.1+1/Eigen.v3.4.1.any.tar.gz"
