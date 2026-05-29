@@ -1,6 +1,6 @@
 [Eigen]
-git-tree-sha1 = "9978ceb28f526bd38f34393ac9f8303cd720746d"
+git-tree-sha1 = "87daf1f5fdd9f5784c6084216e37bc1342c899b5"
 
     [[Eigen.download]]
-    sha256 = "185d480779107dd28e45079ef326cbf6d08464beb8dcddcb4402af1778b17e94"
-    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v3.4.1+1/Eigen.v3.4.1.any.tar.gz"
+    sha256 = "04e4914033daa966c3edf336afaa684ba57a853c0a76035ee0a5297e88280dd8"
+    url = "https://github.com/JuliaBinaryWrappers/Eigen_jll.jl/releases/download/Eigen-v5.0.1+0/Eigen.v5.0.1.any.tar.gz"
